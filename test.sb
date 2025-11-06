@@ -1,0 +1,4 @@
+mov r0, 20
+mov r1, 22
+add r0, r1
+exit
